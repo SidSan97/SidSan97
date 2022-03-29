@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ## Olá! eu sou Sidnei Santiago
 
 - 🔭 Hoje eu trabalho com desenvolvimento web
-- 🌱 Estudando React
+- 🌱 Estudando Frameworks Laravel
 - ⚡ Amante de videogames em 8/16 bits
 
  <div>
