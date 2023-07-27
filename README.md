@@ -40,6 +40,6 @@ Here are some ideas to get you started:
  <a href="https://www.facebook.com/sidnei.santiago.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   </div>
  
-   ![Snake animation](https://github.com/sidsan97/sidsan97/blob/output/github-contribution-grid-snake.svg)
+   
 
 
